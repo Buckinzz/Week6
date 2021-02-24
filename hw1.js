@@ -27,6 +27,8 @@ console.log(ul);
 
 
 console.log(ul.children);
+
+
 var aboutLi = ul.children[1];
 console.log(aboutLi);
 
